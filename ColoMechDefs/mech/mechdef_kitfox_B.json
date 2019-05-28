@@ -26,7 +26,21 @@
             "clansmokejaguar",
             "clancloudcobra",
             "clannovacat",
-            "clanburrock"
+            "clanburrock",
+            "nofaction",
+   	        "MercenaryReviewBoard",
+            "betrayers",
+            "auriganmercenaries",
+            "FlakJackals",
+            "LocalsBrockwayRefugees",
+            "SelfEmployed",
+            "MasonsMarauders",
+            "SteelBeast",
+            "KellHounds",
+            "RazorbackMercs",
+            "HostileMercenaries",
+            "outworld",
+            "locals"
         ],
         "tagSetSourceFile": ""
     },
