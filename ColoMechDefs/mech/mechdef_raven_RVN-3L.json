@@ -17,7 +17,20 @@
 			"liao",
 			"castile",
 			"magistracyofcanopus",
-			"taurianconcordat"
+			"taurianconcordat",
+			"nofaction",
+   			"MercenaryReviewBoard",
+        	"betrayers",
+        	"auriganmercenaries",
+        	"FlakJackals",
+        	"LocalsBrockwayRefugees",
+        	"SelfEmployed",
+        	"MasonsMarauders",
+        	"SteelBeast",
+        	"KellHounds",
+        	"RazorbackMercs",
+        	"HostileMercenaries",
+			"locals"
 		],
 		"tagSetSourceFile": ""
 	},
