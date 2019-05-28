@@ -23,7 +23,21 @@
             "clansteelviper",
             "clansmokejaguar",
             "clansnowraven",
-            "clanwolf"
+            "clanwolf",
+      	    "nofaction",
+   	        "MercenaryReviewBoard",
+            "betrayers",
+            "auriganmercenaries",
+            "FlakJackals",
+            "LocalsBrockwayRefugees",
+            "SelfEmployed",
+            "MasonsMarauders",
+            "SteelBeast",
+            "KellHounds",
+            "RazorbackMercs",
+            "HostileMercenaries",
+            "locals",
+            "rasalhague"
         ],
         "tagSetSourceFile": ""
     },
